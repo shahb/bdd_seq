@@ -49,9 +49,8 @@
            <version>2.11</version>
            <configuration>
 	           <includes>
-		           	<include>**/Run*.java</include>
+		           	<include>**/SeqExec.java</include>
 		       </includes>
-		       <parallel>classes</parallel>
 		   </configuration>
          </plugin>
       </plugins>
